@@ -1,2 +1,2 @@
-# notebook
-my notebook
+# daily news
+my AI daily news
